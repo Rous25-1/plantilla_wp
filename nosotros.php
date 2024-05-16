@@ -31,30 +31,36 @@
             <div class="container-fluid">
 
                 <div class="row">
-                    <div class="col-4"></div>
-                    <div class="col-sm-8">
+                    <div class=""></div>
+                    <div class="col-sm-12">
                         <div class="text-center mt-4">
                             <h4>Historia de Nuestra Empresa</h4>
-                            <p class="text-center"> Tienda 5A nació de la pasión por la moda y el deseo de ofrecer a los clientes una experiencia única de compra. Fundada en la pintoresca ciudad de San Isidro hace más de dos décadas, Tienda 5A comenzó como una modesta boutique en una calle lateral, con un enfoque claro en la calidad y la atención al detalle.
-                                <li>
+                            <p class="text-align-justify"> Tienda 5A nació de la pasión por la moda y el deseo de ofrecer a los clientes una experiencia única de compra. Fundada en la pintoresca ciudad de San Isidro hace más de dos décadas, Tienda 5A comenzó como una modesta boutique en una calle lateral, con un enfoque claro en la calidad y la atención al detalle.
+                                
                                     La fundadora, María González, una apasionada diseñadora de moda, siempre soñó con crear una marca que no solo ofreciera ropa de alta calidad, sino que también transmitiera un mensaje de estilo, elegancia y responsabilidad social. Con este objetivo en mente, María comenzó a viajar por el mundo en busca de las mejores telas y artesanos expertos que pudieran ayudar a hacer realidad su visión.
-                                </li>
-                                <li>
+                                
+                                
                                     Con el paso de los años, Tienda 5A se ganó la confianza y el aprecio de la comunidad local, gracias a su compromiso con la calidad, el diseño único y el excelente servicio al cliente. La boutique se convirtió en un destino favorito para los amantes de la moda en San Isidro y sus alrededores, atrayendo a clientes de todas partes con su selección cuidadosamente curada de prendas de vestir y accesorios.
-                                </li>
-                                <li>
+                                
+                            
                                     A medida que la marca ganaba reconocimiento, Tienda 5A expandió sus operaciones, abriendo nuevas tiendas en diferentes ciudades y lanzando una tienda en línea para llegar a un público más amplio. A pesar de su crecimiento, la empresa nunca perdió de vista sus valores fundamentales: la calidad, la sostenibilidad y la conexión con la comunidad.
-                                </li>
-                                <li>
+                               
                                     Hoy en día, Tienda 5A se ha convertido en una marca de renombre nacional, conocida por su estilo distintivo y su compromiso con la moda ética. Desde su humilde comienzo en San Isidro hasta su posición como líder en la industria de la moda, Tienda 5A sigue siendo fiel a su misión original de inspirar a las personas a expresarse a través de la moda, mientras deja una huella positiva en el mundo que la rodea.
-                                </li>
+                                
                             </p>
 
                         </div>
+
                     </div><!-- end col -->
 
-                    
+
+
                 </div><!-- end row -->
+                <center>
+                    <div >
+                        <img width="50%" src="img/m.avif" alt="">
+                    </div>
+                    </center>
                 <br>
                 <br>
                 <br>
@@ -123,38 +129,7 @@
                     <div class="col-2"></div>
                 </div>
                 <!-- end row-->
-                <div class="row">
-                    <div class="col-2"></div>
-                    <div class="col-xl-8">
-                        <br>
-                        <h1>Trabajadores</h1>
-                        <div class="page-title-box d-flex aling-items-center justify-content-between">
-                            <div class="container-fluid row">
-                                <?php for ($i = 0; $i < 4; $i++) {
-                                ?>
-                                    <div class=" col-md-3">
-                                        <div class="card">
-                                            <img class="card-img-top img-fluid" src="img/m.avif" alt="">
-                                            <div class="card-body">
-                                                <h5 class="card-title">titulo</h5>
-                                                <p class="card-text">
-                                                    descripcion
-                                                </p>
 
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-                                    
-                                <?php } ?>
-
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-2"></div>
-                </div>
 
 
 
