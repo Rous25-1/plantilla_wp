@@ -31,6 +31,9 @@
             <div class="container-fluid">
 
                 <div class="row">
+                    <!-- <div class="col-4">
+                        <img width="100%" src="img/m.avif" alt="">
+                    </div> -->
                     <div class=""></div>
                     <div class="col-sm-12">
                         <div class="text-center mt-4">
